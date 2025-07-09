@@ -1,6 +1,8 @@
 ---
 
+
 ## (i) Cash Flow Diagram (Textual Representation)
+
 
 | **Year** | **Cash Inflows (Revenue)** | **Cash Outflows (Costs)**     | **Net Cash Flow** |
 |----------|-----------------------------|-------------------------------|-------------------|
